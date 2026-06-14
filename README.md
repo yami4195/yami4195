@@ -15,11 +15,26 @@
 
 - ## Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+
+## 🛠️ Tech Stack
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+### Tools & Productivity
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+
+</div>
 
 ## GitHub Stats
 
