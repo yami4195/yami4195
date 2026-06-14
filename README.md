@@ -1,10 +1,9 @@
-# Hi, I'm Yeamlak 👋
+<h1 align="center">Hi 👋, I'm Yeamlak</h1>
+<h3 align="center">Computer Science Student | Java Developer | React Learner</h3>
 
-### Computer Science Student | Java Developer | React Learner
-
-I'm a Computer Science student passionate about software development, problem-solving, and building practical applications. Currently learning React, Data Structures & Algorithms, Operating Systems, and Software Engineering.
-
----
+<p align="center">
+  Passionate about software development, algorithms, and building practical applications.
+</p>
 ## About Me
 
 - 🎓 Computer Science Student
