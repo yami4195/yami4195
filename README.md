@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Yeamlak</h1>
-<h3 align="center">Computer Science Student | Java Developer | React Learner</h3>
+<h3 align="center">Computer Science Student | Web and Mobile application Developer | React Learner</h3>
 
 <p align="center">
   Passionate about software development, algorithms, and building practical applications.
 </p>
 ## About Me
 
-- 🎓 Computer Science Student
-- 💻 Learning React and modern web development
+- 🎓 Computer Science Student at hawassa university
+- 💻 Learning React and modern web application development
+- building mobile apps with Dart and Flutter
 - ☕ Strong interest in Java programming
 - 📚 Studying Data Structures & Algorithms
 - 🚀 Building projects to strengthen my software engineering skills
-- 🌱 Always learning new technologies
+- 🌱 Always learning new technologies and inventions!
 
 - ## Tech Stack
 
@@ -23,10 +24,10 @@
 <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql" />
