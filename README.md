@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,csharp" />
+<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
@@ -33,7 +33,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 
 ### Tools & Productivity
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,bruno" />
 
 </div>
 
