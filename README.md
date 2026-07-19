@@ -30,7 +30,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 
 ### Tools & Productivity
 <img src="https://skillicons.dev/icons?i=vscode,git,github" />
