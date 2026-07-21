@@ -4,11 +4,12 @@
 <p align="center">
   Passionate about software development, algorithms, and building practical applications.
 </p>
-## About Me.
+## About Me
 
 - 🎓 Computer Science Student at hawassa university
 - 💻 Learning React and modern web application development
 - building mobile apps with Dart and Flutter
+- learning python
 - ☕ Strong interest in Java programming
 - 📚 Studying Data Structures & Algorithms
 - 🚀 Building projects to strengthen my software engineering skills
