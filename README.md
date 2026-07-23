@@ -6,7 +6,7 @@
 </p>
 ## About Me
 
-- 🎓 Computer Science Student at hawassa university
+- 🎓 Computer Science Undergraduate at Hawassa University
 - 💻 Learning React and modern web application development
 - building mobile apps with Dart and Flutter
 - learning python
