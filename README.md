@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeamlak</h1>
-<h3 align="center">Computer Science Student | Web and Mobile application Developer | React Learner</h3>
+<h3 align="center">Computer Science Student | Web and Mobile application Developer | Learning React and Nextjs </h3>
 
 <p align="center">
   Passionate about software development, algorithms, and building practical applications.
