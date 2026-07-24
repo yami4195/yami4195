@@ -32,6 +32,7 @@
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://camo.githubusercontent.com/345ea6f1e2396493a300607db7219f91a3a4c8af49a59f5f870f73dd0c8cd799/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d3032353639423f7374796c653d666f722d7468652d6261646765266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465"/>
 
 ### Tools & Productivity
 <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab" />
