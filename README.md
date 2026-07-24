@@ -33,8 +33,8 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-### Mobile
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /><br/>
+<h2>Mobile</h2>
 <img width="102" height="28" alt="image" src="https://github.com/user-attachments/assets/ab4e1d9f-e916-4462-b59b-5d7bf1866bf7"/>
 
 <img width="79" height="28" alt="image" src="https://github.com/user-attachments/assets/4ef19331-3976-4a2e-a660-01f3213545c6"/>
