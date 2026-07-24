@@ -26,8 +26,8 @@
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-<img src="<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/2186953c-844e-42a6-a69c-65f08f8a2456" />
-"/>
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/2186953c-844e-42a6-a69c-65f08f8a2456" />
+
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
@@ -35,10 +35,10 @@
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 ### Mobile
-<img src="<img width="102" height="28" alt="image" src="https://github.com/user-attachments/assets/ab4e1d9f-e916-4462-b59b-5d7bf1866bf7" />
-"/>
-<img src="<img width="79" height="28" alt="image" src="https://github.com/user-attachments/assets/4ef19331-3976-4a2e-a660-01f3213545c6" />
-"/>
+<img width="102" height="28" alt="image" src="https://github.com/user-attachments/assets/ab4e1d9f-e916-4462-b59b-5d7bf1866bf7"/>
+
+<img width="79" height="28" alt="image" src="https://github.com/user-attachments/assets/4ef19331-3976-4a2e-a660-01f3213545c6"/>
+
 
 ### Tools & Productivity
 <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab" />
