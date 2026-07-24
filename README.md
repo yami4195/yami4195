@@ -26,14 +26,19 @@
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+<img src="<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/2186953c-844e-42a6-a69c-65f08f8a2456" />
+"/>
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-###Mobile
-<img src="https://camo.githubusercontent.com/345ea6f1e2396493a300607db7219f91a3a4c8af49a59f5f870f73dd0c8cd799/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d3032353639423f7374796c653d666f722d7468652d6261646765266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465"/>
+### Mobile
+<img src="<img width="102" height="28" alt="image" src="https://github.com/user-attachments/assets/ab4e1d9f-e916-4462-b59b-5d7bf1866bf7" />
+"/>
+<img src="<img width="79" height="28" alt="image" src="https://github.com/user-attachments/assets/4ef19331-3976-4a2e-a660-01f3213545c6" />
+"/>
 
 ### Tools & Productivity
 <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab" />
