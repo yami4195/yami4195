@@ -25,7 +25,7 @@
 <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript" />
 <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/2186953c-844e-42a6-a69c-65f08f8a2456" />
 
 
