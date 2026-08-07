@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student | Learning Web and Mobile applications | Learning React and Nextjs </h3>
 
 <p align="center">
-  Passionate about software development, algorithms, and building practical applications.
+  Passionate about software development, algorithms, and building practical web and Mobile applications.
 </p>
 ## About Me
 
