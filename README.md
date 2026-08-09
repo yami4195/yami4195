@@ -8,7 +8,7 @@
 ## About Me
 
 - 🎓 Computer Science Undergraduate at Hawassa University
-- 💻 Learning React and modern web application development
+- 💻 Learning React, Next.Js and modern web application development
 - building mobile apps with Dart and Flutter
 - learning python
 - ☕ Strong interest in Java programming
