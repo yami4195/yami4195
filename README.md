@@ -40,7 +40,7 @@
 
 <img width="79" height="28" alt="image" src="https://github.com/user-attachments/assets/4ef19331-3976-4a2e-a660-01f3213545c6"/>
 
-<img width="474" height="248" alt="image" src="https://github.com/user-attachments/assets/525a1f8d-80b5-4d87-b585-6e5e8674e834" />
+<img width="79" height="28" alt="image" src="https://github.com/user-attachments/assets/525a1f8d-80b5-4d87-b585-6e5e8674e834" />
 "
 
 
