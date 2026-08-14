@@ -9,7 +9,7 @@
 
 - 🎓 Computer Science Undergraduate at Hawassa University
 - 💻 Learning React, Next.Js and modern web application development
-- building mobile apps with Dart and Flutter
+- building Native mobile apps with Dart and Flutter
 - learning python
 - ☕ Strong interest in Java programming
 - 📚 Studying Data Structures & Algorithms
