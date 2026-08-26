@@ -11,19 +11,19 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/yeamlak-sisay-170baa35b/"">
+<a href="https://www.linkedin.com/in/yeamlak-sisay-170baa35b/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 
-<a href="https://t.me/Beba5151" ">
+<a href="https://t.me/Beba5151" >
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" />
 </a>
 
-<a href="mailto:yamlaksisay419@gmail.com" ">
+<a href="mailto:yamlaksisay419@gmail.com" >
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
 
-<a href="https://github.com/yami4195" ">
+<a href="https://github.com/yami4195" >
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
