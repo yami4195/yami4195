@@ -11,19 +11,19 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/yeamlak-sisay-170baa35b/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/yeamlak-sisay-170baa35b/"">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 
-<a href="https://t.me/Beba5151" target="_blank" rel="noopener noreferrer">
+<a href="https://t.me/Beba5151" ">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" />
 </a>
 
-<a href="mailto:yamlaksisay419@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:yamlaksisay419@gmail.com" ">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
 
-<a href="https://github.com/yami4195" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/yami4195" ">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
@@ -278,15 +278,15 @@ const yeamlak = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/yeamlak-sisay-170baa35b/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/yeamlak-sisay-170baa35b/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 
-<a href="https://t.me/Beba5151" target="_blank" rel="noopener noreferrer">
+<a href="https://t.me/Beba5151" >
   <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" />
 </a>
 
-<a href="mailto:yamlaksisay419@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:yamlaksisay419@gmail.com" >
   <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
 
