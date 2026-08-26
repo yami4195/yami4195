@@ -1,110 +1,307 @@
+
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=180&section=header&text=Hi%2C%20I'm%20Yeamlak&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2C5364,100:0F2027&amp;height=180&amp;section=header&amp;text=Hi%2C%20I'm%20Yeamlak%20%F0%9F%91%8B&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Computer%20Science%20Student%20%7C%20Full-Stack%20%26%20Mobile%20Developer&amp;descAlignY=58&amp;descSize=18" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeamlak-sisay-170baa35b/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Beba5151)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yamlaksisay419@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yami4195)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Full-Stack+Developer+in+Progress;React+%7C+React+Native+%7C+Node.js;Building+Real-World+Applications;Always+Learning%2C+Always+Building+%F0%9F%9A%80" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/yeamlak-sisay-170baa35b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+</a>
+
+<a href="https://t.me/Beba5151">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" />
+</a>
+
+<a href="mailto:yamlaksisay419@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+</a>
+
+<a href="https://github.com/yami4195">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=yami4195&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%" />
+<br/>
+
+<!-- ===================== ABOUT ME ===================== -->
 
 ## 🧭 About Me
 
-I'm **Yeamlak**, a Computer Science undergraduate at **Hawassa University**, College of Informatics. I'm currently interning as a software developer, where I split my time between building a full-stack **Event Management System** and a **React Native banking app** — real products with real users, not just class assignments.
+I'm **Yeamlak**, a Computer Science undergraduate at **Hawassa University, College of Informatics** and an aspiring full-stack and mobile developer.
 
-I like turning a design doc into something people can actually click through. Most days that means React/React Native on the frontend and Node.js/Express/PostgreSQL on the backend.
+I'm currently working on real-world software projects, including a **full-stack Event Management System** and a **React Native banking application**.
 
-- 🎓 CS Undergraduate at Hawassa University, College of Informatics
-- 💼 Interning as a software developer — shipping a full-stack EMS and a React Native banking app
-- 🌱 Sharpening my skills in React, Next.js, and Flutter/Dart
-- 📚 Studying Data Structures & Algorithms, Automata Theory, and Software Engineering
-- ⚡ Strong interest in Java and backend system design
+I enjoy turning ideas and designs into functional applications that people can actually use. Most of my work involves **React and React Native** on the frontend and **Node.js, Express, and PostgreSQL** on the backend.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%" />
+- 🎓 Computer Science Undergraduate at Hawassa University
+- 💼 Interning as a software developer
+- 📱 Building mobile applications with React Native and Flutter
+- 🌐 Developing full-stack applications with React and Node.js
+- 🌱 Currently improving my skills in **React, Next.js, Flutter, and backend architecture**
+- 📚 Studying **Data Structures & Algorithms, Automata Theory, and Software Engineering**
+- ⚡ Strong interest in **Java, backend development, and system design**
+- 🚀 Goal: Become a strong **full-stack and mobile software engineer**
 
-## 🎯 What I'm Working On
+---
 
-| 🔭 Learning | 🛠️ Building | 🚀 Aiming For |
-|---|---|---|
-| Advanced React & Next.js | Bank queue & forex app (React Native) | Strong full-stack engineer |
-| Backend architecture & APIs | Event Management System (Node/Express/PostgreSQL) | Deeper backend + system design skills |
-| Flutter & Dart | HU Events platform (PHP/MySQL) | Contributing to open source |
-| Data Structures & Algorithms | Side projects in Java | Production-quality mobile apps |
+<!-- ===================== CURRENT FOCUS ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%" />
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🔭 Learning
+
+Advanced React & Next.js
+
+Backend Architecture
+
+Flutter & Dart
+
+Data Structures & Algorithms
+
+System Design
+
+</td>
+
+<td width="33%" align="center">
+
+### 🛠️ Building
+
+Smart Bank Queue App
+
+Event Management System
+
+HU Events Platform
+
+Java Side Projects
+
+REST APIs
+
+</td>
+
+<td width="33%" align="center">
+
+### 🚀 Aiming For
+
+Strong Full-Stack Skills
+
+Production Mobile Apps
+
+Better System Design
+
+Open Source Contributions
+
+Scalable Backend Systems
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
-<br/>
+### 💻 Languages
+
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp" />
 
-**Frontend**
-<br/>
+### 🎨 Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 
-**Mobile**
-<br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart,react" />
+### 📱 Mobile Development
 
-**Backend**
-<br/>
+<img src="https://skillicons.dev/icons?i=react,flutter,dart" />
+
+### ⚙️ Backend
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 
-**Databases**
-<br/>
+### 🗄️ Databases
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,gitlab,postman" />
+### 🔧 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%" />
+---
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
 ## 🚀 Featured Projects
 
-| Project | Description | Status |
-|---|---|---|
-| 🏦 **Smart Bank Queue & Forex App** | React Native + TypeScript app built during my bank internship — lets customers reserve their branch queue position online, check live forex rates, and manage loans/cards. Clerk auth, PostgreSQL backend. | 🚧 In Progress |
-| 🎟️ **Event Management System** | Full-stack event platform for my internship — Node.js/Express/PostgreSQL REST API with OpenAPI docs and role-based access, React + Tailwind frontend. | 🚧 In Progress |
-| 🎓 **HU Events** | University group project for Hawassa University's CS department — built with PHP, MySQL, and vanilla JS/HTML/CSS. | ✅ Completed |
-| 🏢 **Human Resource Management System** | Java-based HRMS for managing employees, attendance, payroll, leave requests, and performance evaluations. | ✅ Completed |
-| 📚 **Data Structures & Algorithms** | Implementations and solutions to core DSA problems in Java. | 🔄 Ongoing |
+| Project | Description | Tech | Status |
+|---|---|---|---|
+| 🏦 **Smart Bank Queue & Forex App** | React Native application that allows customers to locate branches, reserve queue positions, monitor live queues, check forex rates, and manage banking services. | React Native, TypeScript, Node.js, PostgreSQL | 🚧 In Progress |
+| 🎟️ **Event Management System** | Full-stack event platform with authentication, role-based access, event management, registrations, notifications, and REST APIs. | React, Node.js, Express, PostgreSQL | 🚧 In Progress |
+| 🎓 **HU Events** | University event management platform developed as a group project for Hawassa University's CS department. | PHP, MySQL, JavaScript | ✅ Completed |
+| 🏢 **Human Resource Management System** | Java-based system for managing employees, attendance, payroll, leave requests, and performance evaluations. | Java, MySQL | ✅ Completed |
+| 📚 **Data Structures & Algorithms** | Collection of implementations and solutions for core data structures and algorithms. | Java | 🔄 Ongoing |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%" />
+---
 
-## 📊 GitHub Stats
+<!-- ===================== GITHUB STATS ===================== -->
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yami4195&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yami4195&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+## 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=yami4195&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yami4195&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yami4195&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=yami4195&amp;theme=tokyonight&amp;hide_border=true" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%" />
+---
+
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yami4195&amp;theme=tokyo-night&amp;hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<!-- ===================== TROPHIES ===================== -->
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yami4195&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10" />
+
+</div>
+
+---
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yami4195/yami4195/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+> ⚠️ The contribution snake requires a GitHub Actions workflow.
+> You can enable it later using the Platane/snk GitHub Action.
+
+---
+
+<!-- ===================== RANDOM DEV QUOTE ===================== -->
+
+## 💭 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" />
+
+</div>
+
+---
+
+<!-- ===================== CURRENTLY ===================== -->
+
+## 🔥 Currently Exploring
+
+
+Frontend      → React • Next.js
+Mobile        → React Native • Flutter
+Backend       → Node.js • Express • APIs
+Database      → PostgreSQL • MySQL
+Programming   → Java • TypeScript
+CS Core       → DSA • Algorithms • System Design
+
+
+<!-- ===================== FUN FACT ===================== -->
+
+## ⚡ A Little More About Me
+
+t
+const yeamlak = {
+  location: "Ethiopia 🇪🇹",
+  role: "Computer Science Student & Developer",
+  interests: [
+    "Full-Stack Development",
+    "Mobile Development",
+    "Backend Systems",
+    "System Design",
+    "Algorithms"
+  ],
+  currentlyLearning: [
+    "Next.js",
+    "React Native",
+    "Flutter",
+    "Backend Architecture"
+  ],
+  motto: "Learn. Build. Break. Fix. Repeat. 🚀"
+};
+
+
+---
+
+<!-- ===================== CONNECT ===================== -->
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeamlak-sisay-170baa35b/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Beba5151)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yamlaksisay419@gmail.com)
+<a href="https://www.linkedin.com/in/yeamlak-sisay-170baa35b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+</a>
+
+<a href="https://t.me/Beba5151">
+  <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" />
+</a>
+
+<a href="mailto:yamlaksisay419@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+</a>
 
 </div>
+
+<br/>
 
 <div align="center">
-<i>Thanks for stopping by — always open to collaborating on interesting projects.</i>
+
+### 💬 *Thanks for stopping by!*
+
+I'm always open to collaborating on interesting projects, learning from other developers, and building useful things together. 🚀
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2C5364,100:0F2027&amp;height=120&amp;section=footer" width="100%" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" />
