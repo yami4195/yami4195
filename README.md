@@ -2,8 +2,8 @@
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2C5364,100:0F2027&height=180&section=header&text=Hi%2C%20I%27m%20Yeamlak&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Building%20and%20Real%20world%20Web%20and%20Mobile%20Apps&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2C5364,100:0F2027&amp;height=180&amp;section=header&amp;text=Hi%2C%20I'm%20Yeamlak%20%F0%9F%91%8B&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Computer%20Science%20Student%20%7C%20Full-Stack%20%26%20Mobile%20Developer&amp;descAlignY=58&amp;descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Full-Stack+Developer+in+Progress;React+%7C+React+Native+%7C+Node.js;Building+Real-World+Applications;Always+Learning%2C+Always+Building+%F0%9F%9A%80" />
@@ -29,7 +29,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=yami4195&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat" />
 
 </div>
 
@@ -144,6 +143,9 @@ Scalable Backend Systems
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma" />
 
+### Deployment
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,vercel,netlify,githubactions" />
 </div>
 
 ---
@@ -248,7 +250,7 @@ CS Core       → DSA • Algorithms • System Design
 
 ## ⚡ A Little More About Me
 
-t
+```js
 const yeamlak = {
   location: "Ethiopia 🇪🇹",
   role: "Computer Science Student & Developer",
@@ -267,8 +269,7 @@ const yeamlak = {
   ],
   motto: "Learn. Build. Break. Fix. Repeat. 🚀"
 };
-
-
+```
 ---
 
 <!-- ===================== CONNECT ===================== -->
@@ -291,6 +292,8 @@ const yeamlak = {
 
 </div>
 
+<br/>
+<img src="https://komarev.com/ghpvc/?username=yami4195&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat" />
 <br/>
 
 <div align="center">
