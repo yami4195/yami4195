@@ -2,7 +2,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2C5364,100:0F2027&height=180&section=header&text=Hi%2C%20I%27m%20Yeamlak&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Building%20and%20Real%20world%20Web%20and%20Mobile%20Apps&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2C5364,100:0F2027&height=180&section=header&text=Hi%2C%20I%27m%20Yeamlak&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Building%20Real%20world%20Web%20and%20Mobile%20Apps&descAlignY=58&descSize=18" width="100%" />
 
 
 <a href="https://git.io/typing-svg">
