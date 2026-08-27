@@ -2,7 +2,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2C5364,100:0F2027&height=220&section=header&text=Hi,%20I'm%0AYeamlak&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Computer%20Science%20Student%20%7C%20Building%20Real%20world%20Web%20and%20Mobile%20Apps&descAlignY=68&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=color=0:FFE8CC,100:1A1A2E&height=220&section=header&text=Hi,%20I'm%0AYeamlak&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Computer%20Science%20Student%20%7C%20Building%20Real%20world%20Web%20and%20Mobile%20Apps&descAlignY=68&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Full-Stack+Developer+in+Progress;React+%7C+React+Native+%7C+Node.js;Building+Real-World+Applications;Always+Learning%2C+Always+Building+%F0%9F%9A%80" />
