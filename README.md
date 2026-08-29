@@ -291,9 +291,7 @@ const yeamlak = {
 
 </div>
 
-<br/>
-<img src="https://komarev.com/ghpvc/?username=yami4195&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat" />
-<br/>
+
 
 <div align="center">
 
