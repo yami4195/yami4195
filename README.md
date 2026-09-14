@@ -160,7 +160,7 @@ Scalable Backend Systems
 | 🎓 **HU Events** | University event management platform developed as a group project for Hawassa University's CS department. | PHP, MySQL, JavaScript | ✅ Completed |
 | 🏢 **Human Resource Management System** | Java-based system for managing employees, attendance, payroll, leave requests, and performance evaluations. | Java, MySQL | ✅ Completed |
 | 📚 **Data Structures & Algorithms** | Collection of implementations and solutions for core data structures and algorithms. | Java | 🔄 Ongoing |
-| 🏢 **URL Health Checker** | A simple bash scripting that checks A simple Bash script that checks whether a website is reachable by testing DNS resolution, TCP connectivity, TLS certificate expiry and provide overall Health status! | Bourne again shell, Scripting language | ✅ Completed |
+| 🔗🔗**URL Health Checker** | A simple Bash script that checks whether a website is reachable by testing DNS resolution, TCP connectivity, TLS certificate expiry and provide overall Health status! | Bourne again shell, Scripting language | ✅ Completed |
 ---
 
 <!-- ===================== GITHUB STATS ===================== -->
