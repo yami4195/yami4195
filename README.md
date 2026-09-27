@@ -67,6 +67,7 @@ I enjoy turning ideas and designs into functional applications that people can a
 Advanced React & Next.js
 
 Backend Architecture
+postgres sql
 
 Flutter & Dart
 
