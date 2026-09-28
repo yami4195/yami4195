@@ -45,7 +45,7 @@ I enjoy turning ideas and designs into functional applications that people can a
 
 - 🎓 Computer Science Undergraduate at Hawassa University
 - 💼 Interning as a software developer
-- 📱 Building mobile applications with React Native and Flutter&dart
+- 📱 Building mobile applications with React Native , Flutter&dart,kotlin
 - 🌐 Developing full-stack applications with React and Node.js
 - 🌱 Currently improving my skills in **React, Next.js, Flutter, and backend architecture**
 - 📚 Studying **Data Structures & Algorithms, Automata Theory, and Software Engineering**
@@ -74,6 +74,8 @@ Flutter & Dart
 Data Structures & Algorithms
 
 System Design
+
+Docker
 
 </td>
 
