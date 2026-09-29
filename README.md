@@ -71,6 +71,8 @@ postgres sql
 
 Flutter & Dart
 
+kotlin
+
 Data Structures & Algorithms
 
 System Design
