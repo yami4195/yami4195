@@ -40,6 +40,9 @@
 I'm **Yeamlak**, a Computer Science undergraduate at **Hawassa University, College of Informatics** and an aspiring full-stack and mobile app developer.
 
 I'm currently working on real-world software projects, including a **full-stack Event Management System** and a **React Native Mobile banking application**
+**Ethio guide mobile application**
+
+
 
 I enjoy turning ideas and designs into functional applications that people can actually use. Most of my work involves **React and React Native** on the frontend and **Node.js, Express, and PostgreSQL** on the backend.
 
