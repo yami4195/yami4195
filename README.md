@@ -161,7 +161,7 @@ Scalable Backend Systems
 
 | Project | Description | Tech | Status |
 |---|---|---|---|
-| 🏦 **Smart Bank Queue & Forex App** | React Native application that allows customers to locate branches, reserve queue positions, monitor live queues, check forex rates, and manage banking services. | React Native, TypeScript, Node.js, PostgreSQL | 🚧 In Progress |
+| 🏦 **Smart Bank Queue & Forex App** | React Native application that allows customers to locate branches, reserve queue positions, monitor live queues, check forex rates, and manage banking services. | React Native, TypeScript, Node.js, PostgreSQL | ✅ Completed  |
 | 🎟️ **Event Management System** | Full-stack event platform with authentication, role-based access, event management, registrations, notifications, and REST APIs. | React, Node.js, Express, PostgreSQL | 🚧 In Progress |
 | 🎓 **HU Events** | University event management platform developed as a group project for Hawassa University's CS department. | PHP, MySQL, JavaScript | ✅ Completed |
 | 🏢 **Human Resource Management System** | Java-based system for managing employees, attendance, payroll, leave requests, and performance evaluations. | Java, MySQL | ✅ Completed |
