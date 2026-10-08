@@ -47,7 +47,7 @@ I'm currently working on real-world software projects, including a **full-stack 
 I enjoy turning ideas and designs into functional applications that people can actually use. Most of my work involves **React and React Native** on the frontend and **Node.js, Express, and PostgreSQL** on the backend.
 
 - 🎓 Computer Science Undergraduate at Hawassa University
-- 💼 Interning as a software developer
+- 💼 Interning as a software developer at wegagen bank Hq
 - 📱 Building mobile applications with React Native , Flutter&dart,kotlin
 - 🌐 Developing full-stack applications with React and Node.js
 - 🌱 Currently improving my skills in **React, Next.js, Flutter, and backend architecture**
@@ -55,6 +55,7 @@ I enjoy turning ideas and designs into functional applications that people can a
 - ⚡ Strong interest in **Java, backend development, and system design**
 - 🚀 Goal: Become a strong **full-stack and mobile software engineer**
 - Flutter dev
+- building strong ai based projects
 
 ---
 
@@ -72,6 +73,8 @@ Advanced React & Next.js
 
 Backend Architecture
 postgres sql
+Docker(containerization)
+kubernetes
 
 Flutter & Dart
 
