@@ -54,6 +54,7 @@ I enjoy turning ideas and designs into functional applications that people can a
 - 📚 Studying **Data Structures & Algorithms, Automata Theory, and Software Engineering**
 - ⚡ Strong interest in **Java, backend development, and system design**
 - 🚀 Goal: Become a strong **full-stack and mobile software engineer**
+- Flutter dev
 
 ---
 
