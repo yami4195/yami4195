@@ -307,7 +307,7 @@ I'm always open to collaborating on interesting projects, learning from other de
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2C5364,100:0F2027&amp;height=120&amp;section=footer" width="100%" />
+
 
 </div>
 
