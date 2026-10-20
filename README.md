@@ -40,7 +40,7 @@
 I'm **Yeamlak**, a Computer Science undergraduate student at **Hawassa University, College of Informatics** and an aspiring full-stack and mobile app developer.
 
 I'm currently working on real-world software projects, including a **full-stack Event Management System** and a **React Native Mobile banking application**
-**Ethio guide mobile application**
+**Ethio guide tour mobile application**
 
 
 
