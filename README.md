@@ -48,7 +48,7 @@ I enjoy turning ideas and designs into functional applications that people can a
 
 - 🎓 Computer Science Undergraduate at Hawassa University
 - 💼 Interning as a software developer at wegagen bank Hq
-- 📱 Building mobile applications with React Native , Flutter&dart,kotlin
+- 📱 Building mobile applications with React Native , Flutter&dart,kotlin and java
 - 🌐 Developing full-stack applications with React and Node.js
 - 🌱 Currently improving my skills in **React, Next.js, Flutter, and backend architecture**
 - 📚 Studying **Data Structures & Algorithms, Automata Theory, and Software Engineering**
