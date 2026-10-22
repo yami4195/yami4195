@@ -55,7 +55,8 @@ I enjoy turning ideas and designs into functional applications that people can a
 - ⚡ Strong interest in **Java, backend development, and system design**
 - 🚀 Goal: Become a strong **full-stack and mobile software engineer**
 - Flutter dev
-- building strong ai based projects
+- building strong ai based projects and rag assistant
+- android mobile app development
 
 ---
 
