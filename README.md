@@ -51,6 +51,7 @@ I enjoy turning ideas and designs into functional applications that people can a
 - 📱 Building mobile applications with React Native , Flutter&dart,kotlin and java
 - 🌐 Developing full-stack applications with React and Node.js
 - 🌱 Currently improving my skills in **React, Next.js, Flutter, and backend architecture**
+- backend development with express + nodejs
 - 📚 Studying **Data Structures & Algorithms, Automata Theory, and Software Engineering**
 - ⚡ Strong interest in **Java, backend development, and system design**
 - 🚀 Goal: Become a strong **full-stack and mobile software engineer**
